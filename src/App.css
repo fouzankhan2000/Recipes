@@ -10,18 +10,14 @@
 }
 
 .result {
-    background-color: gray;
+    background-color: white;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    
 }
 
-.data {
-    width: calc(100% / 4);
+.data p {
+    margin-bottom: 10px;
 }
 
-.data img {
-    width: 400px;
-    height: 200px;
-}
+
